@@ -1,3 +1,3 @@
 # Callback - Hell
 
-![alt text](./image/gif.mp4)
+![alt text](./image/walk.png)
